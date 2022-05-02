@@ -18,7 +18,6 @@ fetch(URL)
 
 function addEmployee() {
   const data = {
-    id: 7,
     fullName: "Va Laki",
     city: "Budapest",
     salary: 3000,
