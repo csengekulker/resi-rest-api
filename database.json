@@ -17,6 +17,18 @@
       "name": "John Doe",
       "city": "New York",
       "salary": 2350
+    },
+    {
+      "id": 4,
+      "name": "Jane Doe",
+      "city": "New York",
+      "salary": 5432
+    },
+    {
+      "id": 5,
+      "name": "Csenge Balogh",
+      "city": "Erd",
+      "salary": 12346
     }
   ]
 }
