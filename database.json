@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "name": "Teknős Ernő",
+            "city": "Szeged",
+            "salary": 1567
+        },
+        {
+            "name": "Fa Aranka",
+            "city": "Szolnok",
+            "salary": 1429 
+        },
+        {
+            "name": "John Doe",
+            "city": "New York",
+            "salary": 2350
+        }
+    ]
+}
