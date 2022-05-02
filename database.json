@@ -1,19 +1,22 @@
 {
-    "employees": [
-        {
-            "name": "Teknős Ernő",
-            "city": "Szeged",
-            "salary": 1567
-        },
-        {
-            "name": "Fa Aranka",
-            "city": "Szolnok",
-            "salary": 1429 
-        },
-        {
-            "name": "John Doe",
-            "city": "New York",
-            "salary": 2350
-        }
-    ]
+  "employees": [
+    {
+      "id": 1,
+      "name": "Teknős Ernő",
+      "city": "Szeged",
+      "salary": 12345
+    },
+    {
+      "id": 2,
+      "name": "Fa Aranka",
+      "city": "Szolnok",
+      "salary": 1429
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "city": "New York",
+      "salary": 2350
+    }
+  ]
 }
