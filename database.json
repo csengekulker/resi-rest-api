@@ -2,33 +2,39 @@
   "employees": [
     {
       "id": 1,
-      "name": "Teknős Ernő",
+      "fullName": "Teknős Ernő",
       "city": "Szeged",
       "salary": 12345
     },
     {
       "id": 2,
-      "name": "Fa Aranka",
+      "fullName": "Fa Aranka",
       "city": "Szolnok",
       "salary": 1429
     },
     {
       "id": 3,
-      "name": "John Doe",
+      "fullName": "John Doe",
       "city": "New York",
       "salary": 2350
     },
     {
       "id": 4,
-      "name": "Jane Doe",
+      "fullName": "Jane Doe",
       "city": "New York",
       "salary": 5432
     },
     {
       "id": 5,
-      "name": "Csenge Balogh",
+      "fullName": "Csenge Balogh",
       "city": "Erd",
       "salary": 12346
+    },
+    {
+      "id": 7,
+      "fullName": "Va Laki",
+      "city": "Budapest",
+      "salary": 3000
     }
   ]
 }
